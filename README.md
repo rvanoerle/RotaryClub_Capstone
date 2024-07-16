@@ -12,3 +12,5 @@ weekly reports, bi-weekly meetings with the client as well as deliver multiple p
 ![image](public/RotaryClub_Presentation8.jpg)
 ![image](public/RotaryClub_Presentation9.jpg)
 ## Website Demo Video
+https://github.com/user-attachments/assets/c163ee3b-6b64-4491-899f-fd7122478c73
+
